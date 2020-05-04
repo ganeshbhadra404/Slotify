@@ -1,7 +1,7 @@
 # Slotify - Music Streamimg Site
- Author : Ganesh Bhadra     
- Origin Author : Reece Kenny
- License : Free   
+ Author : Ganesh Bhadra       
+ Origin Author : Reece Kenny        
+ License : Free     
  Created for Learning & Practices  
  github.com/hunk7     
 
